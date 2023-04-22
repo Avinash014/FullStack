@@ -1,6 +1,6 @@
 package com.avinash.fullstack.student.controller;
 
-import com.avinash.fullstack.student.StudentService;
+import com.avinash.fullstack.student.service.StudentService;
 import com.avinash.fullstack.student.model.Student;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;

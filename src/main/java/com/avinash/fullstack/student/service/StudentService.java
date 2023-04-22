@@ -1,4 +1,4 @@
-package com.avinash.fullstack.student;
+package com.avinash.fullstack.student.service;
 
 import com.avinash.fullstack.student.model.Student;
 import org.springframework.stereotype.Service;
